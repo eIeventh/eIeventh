@@ -1,4 +1,7 @@
-<img width="200" height="320" alt="Untitled1142_20251127141630" src="https://github.com/user-attachments/assets/4b7d166f-4b49-4a93-9fd6-2b7c47762e2b" />
+<p align="center">
+  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/Untitled1142_20251127141630.png" width = 200>
+</p>
 
-
-IDFK how to work readme im Gonna nrevamp this
+<p align="center">
+  IDKF how to work readme
+</p>
