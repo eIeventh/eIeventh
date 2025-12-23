@@ -1,6 +1,22 @@
-> [colour my tree](https://colormytree.me/2025/01KB9N81B20TVDRW3W4DPY0H5E) &(－◡ლ)
 
 
-<img width="150" height="320" alt="Untitled1142_20251127141630" src="https://github.com/user-attachments/assets/fae9f64d-db7c-4ba4-b08b-c79b7ae5e893" />
+<p align="center">
+  
+<img src = "https://komarev.com/ghpvc/?username=vivibasu&color=013D5C&label=ཐི༏ཋྀ󠀮">
 
-![](https://komarev.com/ghpvc/?username=vivibasu&color=DE661A&base=1200)
+</p>
+
+
+<p align="center">
+  
+<img src = "https://file.garden/Zr7c2z6pYQlUCIkg/Untitled1167_20251223172925.png" width = 120/>
+
+</p>
+
+<p align="center">
+ᵕ̣̣̣̣̣̣ᚐ⠀⠀꒰𓏼´⠀⠀`𓏼⠀ ྀིᥩ
+</p>
+
+<p align="center">
+  <a href="https://colormytree.me/2025/01KB9N81B20TVDRW3W4DPY0H5E?page=1">colour⠀my⠀tree。</a>
+</p>
