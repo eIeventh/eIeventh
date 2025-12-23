@@ -2,7 +2,7 @@
 
 <p align="center">
   
-<img src = "https://komarev.com/ghpvc/?username=vivibasu&color=013D5C&label=ཐི༏ཋྀ󠀮">
+<img src = "https://komarev.com/ghpvc/?username=vivibasu&color=35445E&label=ཐི༏ཋྀ󠀮">
 
 </p>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-ᵕ̣̣̣̣̣̣ᚐ⠀⠀꒰𓏼´⠀⠀`𓏼⠀ ྀིᥩ
+ᵕ̣̣̣̣̣̣ᚐ⠀ ⠀𓈒ּ֯݁ ⠀ ♡𓈒⠀ ⠀ॱֺּׅ𓏽ִ
 </p>
 
 <p align="center">
