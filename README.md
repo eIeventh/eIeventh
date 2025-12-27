@@ -18,5 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="https://colormytree.me/2025/01KB9N81B20TVDRW3W4DPY0H5E?page=1">colour⠀my⠀tree。</a>
+  thank u to those who
+</p>
+
+<p align="center">
+signed my tree ⠀⠀🧧
 </p>
