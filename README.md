@@ -1,11 +1,7 @@
-<p align="center">
-  
-<img src = "https://komarev.com/ghpvc/?username=vivibasu&color=B7B7C2&label=(ᗒᗣᗕ)՞">
 
-</p>
+<img src = "https://komarev.com/ghpvc/?username=vivibasu&color=B7B7C2&label=viewers">
+She’s⠀⠀kissing⠀⠀all⠀⠀the
 
-<p align="center">
+boys,⠀⠀she’s⠀too⠀⠀clever
 
-<img src = "https://file.garden/Zr7c2z6pYQlUCIkg/20260120_144928.jpg" width=200>
- 
-</p>
+to⠀⠀⠀⠀⠀⠀be⠀⠀⠀⠀⠀slack.
