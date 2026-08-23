@@ -3,6 +3,8 @@
 [info](https://fluffle.cc/%E5%85%AC%E5%AD%90) [atabook](https://fatui.atabook.org/)
 
 [strawpage⠀](https://gongzi.straw.page/)
+
+aide memoire forwhen i see this again: redo github layout
 ⠀
 
 ⠀
