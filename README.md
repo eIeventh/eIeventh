@@ -1,30 +1,6 @@
-<img src="https://file.garden/Zr7c2z6pYQlUCIkg/Tumblr_l_304522401839457.gif">
-
-[info](https://fluffle.cc/%E5%85%AC%E5%AD%90) [atabook](https://fatui.atabook.org/)
-
-[strawpage⠀](https://gongzi.straw.page/)
-
-aide memoire forwhen i see this again: redo github layout
-⠀
-
-⠀
-
-⠀
-
-⠀
-
-
-
-⠀
-
-⠀⠀
-
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀⠀⠀
-⠀
-⠀
-⠀
+<div align="center">
+<table>
+<tr>⠀</tr>
+<th><a href="https://fluffle.cc/antumbra">info</a> ⠀⠀ <img src="https://media.tenor.com/aHoHZgSbff4AAAAi/zhongli-tartaglia.gif"> ⠀ <a href="https://fatui.atabook.org">atabook</a></th>
+</table>
+</div>
