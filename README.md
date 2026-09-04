@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/forbidnen" width = 290px>
+  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/forbidnen" width = 280px>
 </p>
 ⠀
 
