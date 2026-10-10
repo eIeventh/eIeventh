@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  links⠀♥︎⠀<a href="https://fluffle.cc/ctfu">fluffle</a>⠀⠀<a href="https://gongzi.straw.page">strawpage</a>⠀⠀<a href="https://gewan.atabook.org">atabook</a>
+  links⠀♥︎⠀<a href="https://fluffle.cc/ctfu">fluffle</a>⠀⠀<a href="">strawpage</a>⠀⠀<a href="https://gewan.atabook.org">atabook</a>
 </p>
 ⠀
 
