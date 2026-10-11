@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  I GOT A PICTURE WITH THE BUNNY BEFORE <a href="https://github.com/r4n-reii">@r4n-reii</a>
+  I GOT A PICTURE WITH THE BUNNY BEFORE <a href="https://github.com/finaIduet">@finaIduet</a>
 </p>
 ⠀
 
