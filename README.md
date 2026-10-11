@@ -13,6 +13,14 @@
 <p align="center">
   links⠀♥︎⠀<a href="https://fluffle.cc/ctfu">fluffle</a>⠀⠀<a href="https://gongzi.straw.page/">strawpage</a>⠀⠀<a href="https://gewan.atabook.org">atabook</a>
 </p>
+
+<p align="center">
+  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/Screenshot_20261011_145540_One%20UI%20Home.jpg" width=200"
+</p>
+
+<p align="center">
+  I GOT A PICTURE WITH THE BUNNY BEFORE <a href="https://github.com/r4n-reii">@r4n-reii</a>
+</p>
 ⠀
 
 ⠀
