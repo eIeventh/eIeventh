@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  I GOT A PICTURE WITH THE BUNNY BEFORE <a href="https://github.com/finaIduet">@finaIduet</a>
+  my bunny pictures r better lol <a href="https://github.com/finaIduet">@finaIduet</a>
 </p>
 ⠀
 
