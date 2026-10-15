@@ -3,28 +3,26 @@
 ⠀
 
 <p align="center">
-  that one oomf with a mysterious illness
+  hms in the bunny museum:⠀ chud <a href="https://github.com/r4n-reii/">@r4n-reii</a>,
 </p>
 
 <p align="center">
-  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/HT08P7ZXkAA3z2f.jpg" width=300>
+  <a href="https://github.com/VilLeynn/">@VilLeynn</a> + some nonoomf cameos~ hai ^_^
 </p>
 
 <p align="center">
-  links⠀♥︎⠀<a href="https://fluffle.cc/ctfu">fluffle</a>⠀⠀<a href="https://gongzi.straw.page/">strawpage</a>⠀⠀<a href="https://gewan.atabook.org">atabook</a>
+  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/bnuy2" width=320>
+</p>
+
+<p align="center">
+  my links⠀♥︎⠀<a href="https://fluffle.cc/ctfu">fluffle</a>⠀⠀<a href="https://gongzi.straw.page/">strawpage</a>⠀⠀<a href="https://gewan.atabook.org">atabook</a>
 </p>
 
 ⠀
 
 ⠀
 
-<p align="center">
-  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/Screenshot_20261011_145540_One%20UI%20Home.jpg" width=200"
-</p>
 
-<p align="center">
-  my bunny pictures r better lol <a href="https://github.com/finaIduet">@finaIduet</a>
-</p>
 ⠀
 
 ⠀
