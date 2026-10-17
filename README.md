@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/bnuy2" width=312>
+  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/bnuy2" width=300>
 </p>
 
 <p align="center">
