@@ -5,9 +5,15 @@
 
 
 
-<p align="center">
-  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/bnuy3" width=440>
-</p>
+<div align="center">
+  <details><summary> ₍ᐢ..ᐢ₎</summary>
+    <p align="center">
+    <img src="https://file.garden/Zr7c2z6pYQlUCIkg/childesprite" width=50> al's very special collection of bunny pictures ❀ hi <a href="https://github.com/finaiduet">@finaIduet</a>
+    </p>
+    
+  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/bnuy4" width=440>
+  </details>
+</div>
 
 <table align="center">
   <tr>
