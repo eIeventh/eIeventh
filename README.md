@@ -11,7 +11,8 @@
     <img src="https://file.garden/Zr7c2z6pYQlUCIkg/childesprite" width=50> al's very special collection of bunny pictures ❀ hi <a href="https://github.com/finaiduet">@finaIduet</a>
     </p>
     
-  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/bnuy4" width=440>
+  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/buuunnyy" width=440>
+  
   </details>
 </div>
 
