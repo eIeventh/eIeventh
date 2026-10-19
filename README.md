@@ -26,6 +26,10 @@
     <td>⠀my links⠀♥︎⠀<a href="https://fluffle.cc/ctfu">fluffle</a>⠀⠀<a href="https://gongzi.straw.page/">strawpage</a>⠀⠀<a href="https://gewan.atabook.org">atabook</a> </td>
 </table>
 
+<p align="center">
+  ill redo fluffle + sp later 🙂‍↕️ im lazy! (T﹏T) sign that ata tho ^^^^^
+</p>
+
 ⠀
 
 ⠀
