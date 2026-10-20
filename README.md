@@ -18,12 +18,12 @@
 
 <table align="center">
   <tr>
-    <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀<a href="https://arab.org/">arab.org</a>⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</td>
+    <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀<b><a href="https://arab.org/">arab.org</a></b>⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</td>
 </table>
 <table align="center">
   <tr>
   <td><img src="https://file.garden/Zr7c2z6pYQlUCIkg/gyc" width=100></td>
-    <td>⠀my links⠀♥︎⠀<a href="https://fluffle.cc/ctfu">fluffle</a>⠀⠀<a href="https://gongzi.straw.page/">strawpage</a>⠀⠀<a href="https://gewan.atabook.org">atabook</a> </td>
+    <td>⠀my links⠀♥︎⠀<b><a href="https://fluffle.cc/ctfu">fluffle</a></b>⠀⠀<b><a href="https://gongzi.straw.page/">strawpage</a></b>⠀⠀<b><a href="https://gewan.atabook.org">atabook</a></b> </td>
 </table>
 
 <p align="center">
