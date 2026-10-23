@@ -17,6 +17,7 @@
  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/Screenshot_20261022_211511_One%20UI%20Home.jpg" width=220>
 <img src="https://file.garden/Zr7c2z6pYQlUCIkg/lalallaal" width=220>
   </p>
+  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/Screenshot_20261023_095326_One%20UI%20Home.jpg" width=440 height=300>
   
   </details>
 </div>
