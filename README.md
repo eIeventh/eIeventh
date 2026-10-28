@@ -8,10 +8,10 @@
 <div align="center">
   <details><summary> pt bunny photos ₍ᐢ..ᐢ₎</summary>
     <p align="center">
-    <img src="https://file.garden/Zr7c2z6pYQlUCIkg/childesprite" width=50> last upd 10/28 im too lazy to edit the img. hi <a href="https://github.com/finaIduet">@finaIduet</a>
+    <img src="https://file.garden/Zr7c2z6pYQlUCIkg/childesprite" width=50> eradicated the img (temporarily) im remaking it
     </p>
     
-  <img src="https://i.imgur.com/3pyvPXM.jpeg" width=440>
+  ⠀
 
  
   
