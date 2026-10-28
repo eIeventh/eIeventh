@@ -8,10 +8,10 @@
 <div align="center">
   <details><summary> ₍ᐢ..ᐢ₎</summary>
     <p align="center">
-    <img src="https://file.garden/Zr7c2z6pYQlUCIkg/childesprite" width=50> al's collection of bunny photos + friendslop ❀ hi <a href="https://github.com/finaiduet">@finaIduet</a>
+    <img src="https://file.garden/Zr7c2z6pYQlUCIkg/childesprite" width=50> stash of pt bunny photos before 2027 ^_^ last upd 10/28
     </p>
     
-  <img src="https://i.imgur.com/FBOL4hy.jpeg" width=440>
+  <img src="https://i.imgur.com/3pyvPXM.jpeg" width=440>
 
   <p align="center">
  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/Screenshot_20261022_211511_One%20UI%20Home.jpg" width=220>
