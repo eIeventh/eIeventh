@@ -6,9 +6,9 @@
 
 
 <div align="center">
-  <details><summary> pt bunny photos ₍ᐢ..ᐢ₎</summary>
+  <details><summary> ₍ᐢ..ᐢ₎</summary>
     <p align="center">
-    <img src="https://file.garden/Zr7c2z6pYQlUCIkg/childesprite" width=50> eradicated the img (temporarily) im remaking it
+    <img src="https://file.garden/Zr7c2z6pYQlUCIkg/childesprite" width=50> i eradicated the img (temporarily) ill remake it
     </p>
     
   ⠀
