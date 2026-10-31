@@ -5,27 +5,18 @@
 
 
 
-<div align="center">
-  <details><summary> ₍ᐢ..ᐢ₎</summary>
-    <p align="center">
-    <img src="https://file.garden/Zr7c2z6pYQlUCIkg/childesprite" width=50> i eradicated the img (temporarily) ill remake it
-    </p>
-    
-  ⠀
-
- 
-  
-  </details>
-</div>
+<p align="center">
+  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/rtkeats" width=380>
+</p>
 
 <table align="center">
   <tr>
-    <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀<b><a href="https://arab.org/">arab.org</a></b>⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</td>
+    <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀<b><a href="https://arab.org/">arab.org</a></b>⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</td>
 </table>
 <table align="center">
   <tr>
-  <td><img src="https://file.garden/Zr7c2z6pYQlUCIkg/gyc" width=100></td>
-    <td>⠀my links⠀♥︎⠀<b><a href="https://fluffle.cc/ctfu">fluffle</a></b>⠀⠀<b><a href="https://gongzi.straw.page/">strawpage</a></b>⠀⠀<b><a href="https://zomst.atabook.org">atabook</a></b> </td>
+  <td><img src="https://file.garden/Zr7c2z6pYQlUCIkg/ivtjll" width=90></td>
+    <td>⠀<a href="https://fluffle.cc/ctfu">𝖿𝗅𝗎𝖿𝖿𝗅𝖾</a> ⠀ <a href="https://gongzi.straw.page">𝗌𝗍𝗋𝖺𝗐𝗉𝖺𝗀𝖾</a> ⠀ <a href="https://zomst.atabook.org">𝖺𝗍𝖺𝖻𝗈𝗈𝗄</a></td>
 </table>
 
 ⠀
