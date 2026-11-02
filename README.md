@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
   <td><img src="https://file.garden/Zr7c2z6pYQlUCIkg/ivtjll" width=90></td>
-    <td>⠀⠀<a href="https://fluffle.cc/ctfu">𝖿𝗅𝗎𝖿𝖿𝗅𝖾</a> ⠀⠀ <a href="https://gongzi.straw.page">𝗌𝗍𝗋𝖺𝗐𝗉𝖺𝗀𝖾</a> ⠀⠀ <a href="https://zomst.atabook.org">𝖺𝗍𝖺𝖻𝗈𝗈𝗄</a> ⠀</td>
+    <td>⠀⠀<a href="">𝖿𝗅𝗎𝖿𝖿𝗅𝖾</a> ⠀⠀ <a href="">𝗌𝗍𝗋𝖺𝗐𝗉𝖺𝗀𝖾</a> ⠀⠀ <a href="https://zomst.atabook.org">𝖺𝗍𝖺𝖻𝗈𝗈𝗄</a> ⠀</td>
 </table>
 
 ⠀
