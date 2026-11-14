@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aspyen">@Aspyen</a> ↑↑↑↑↑↑ stupid stupid Stuuupid
+  <a href="https://github.com/aspyen">@Aspyen</a> ↑↑↑↑↑↑ THIS GUY DOESNT KNOW HIS 24/7S 😂😂🤣
 </p>
 
 ⠀
