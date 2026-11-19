@@ -1,6 +1,10 @@
 <p align="center">
-<img width="250" alt="1000062371" src="https://github.com/user-attachments/assets/6438a65b-9c33-4f3f-95b9-652d104270e8" />
+  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/d2c6690f40d47b012f4ba04f0cc62ab5.jpg" width = 300>
+</p>
+
+<p align="center">
+  🌷 ⠀ ⠀⠀ jigsaw falling into place, so there is
 </p>
 <p align="center">
-<a href="https://github.com/aspyen">@Aspyen</a> answer quickly Wat does 24/7 mean.
+  nothing to explain u eye eachother as u pass
 </p>
