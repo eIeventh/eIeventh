@@ -5,7 +5,7 @@
   <img src="https://file.garden/Zr7c2z6pYQlUCIkg/211b2ca61e0eeea3c101ff0dfc353ca1.jpg" width = 200>
 </p>
 <p align="center">
-<img src="https://file.garden/Zr7c2z6pYQlUCIkg/Tumblr_l_37735817631957.gif" width = 200>
+<img src="https://file.garden/Zr7c2z6pYQlUCIkg/Tumblr_l_37144878175464.jpg" width = 200>
 </p>
 
 ⠀
