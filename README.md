@@ -33,9 +33,7 @@
 </td>
 </table>
 
-<p align="center">
-  <img src="https://file.garden/Zr7c2z6pYQlUCIkg/Untitled1731_20261122225821.png" width = 220 height = 200>
-</p>
+
 
 
 
