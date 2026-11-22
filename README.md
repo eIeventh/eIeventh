@@ -3,7 +3,7 @@
   <tr>
     <td>
       <div align="center">
-  <b><a href="https://fluffle.cc/zhaoshengge">fluffle</a>  ⠀⠀<a href="https://zomst.atabook.org"> 新book</a>  ⠀⠀<a href="https://en.pronouns.page/@aIienstage">prns page</a></b><br>
+  <b><a href="https://fluffle.cc/zhaoshengge">fluffle</a>  ⠀⠀<a href="https://zomst.atabook.org"> 新book</a>  ⠀⠀<a href="https://en.pronouns.page/@sapsarata">prns page</a></b><br>
   <img src="https://file.garden/Zr7c2z6pYQlUCIkg/211b2ca61e0eeea3c101ff0dfc353ca1.jpg" width = 200><br>
       </div>
 <div align="center">
