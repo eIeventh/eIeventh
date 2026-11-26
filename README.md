@@ -20,8 +20,8 @@
           <b><a href="https://github.com/Aspyen">@Aspyen</a>⠀ ⠀ <a href="https://github.com/lukasyndrome">@lukasyndrome</a></b><br>
           <b><a href="https://github.com/villeynn">@VilLeynn</a>⠀<a href="https://github.com/delusionofdawn">@delusionofdawn</a></b><br>
             <b><a href="https://github.com/r4n-reii">@r4n-reii</a> <a href="https://github.com/vodkasour">@vodkasour</a></b><br>
-            <b><a href="https://github.com/constrz">@constrz</a> ⠀⠀ <a href="https://github.com/nameless-boy">@nameless-boy</a></b><br>
-            <b><a href="https://github.com/purefatal">@purefatal</a> ⠀<a href="https://github.com/T4RTAGLIA">@T4RTAGLIA</a></b>
+            <b><a href="https://github.com/dyloshki">@dyloshki</a> ⠀⠀ <a href="https://github.com/nameless-boy">@nameless-boy</a></b><br>
+            <b><a href="https://github.com/purefatal">@purefatal</a> ⠀<a href="https://github.com/constrz">@constrz</a></b>
           </div>
         </td>
       </tr>
