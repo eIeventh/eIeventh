@@ -15,7 +15,7 @@
       <tr>
         <td>
           <div align="center">
-          <img src="https://file.garden/Zr7c2z6pYQlUCIkg/Tumblr_l_648383652700783.gif" width = 200><br>
+          <img src="https://file.garden/Zr7c2z6pYQlUCIkg/Tumblr_l_269895209202979.jpg" width = 200><br>
             hi ^,_,^ #ilu :-) bon bon jellyfish<br>
           <b><a href="https://github.com/Aspyen">@Aspyen</a>⠀ ⠀ <a href="https://github.com/lukasyndrome">@lukasyndrome</a></b><br>
           <b><a href="https://github.com/villeynn">@VilLeynn</a>⠀<a href="https://github.com/delusionofdawn">@delusionofdawn</a></b><br>
